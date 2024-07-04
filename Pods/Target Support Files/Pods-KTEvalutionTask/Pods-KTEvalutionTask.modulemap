@@ -1,0 +1,6 @@
+framework module Pods_KTEvalutionTask {
+  umbrella header "Pods-KTEvalutionTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
